@@ -1,0 +1,15 @@
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/bin/Debug/net10.0/fun_helloworld
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/bin/Debug/net10.0/fun_helloworld.deps.json
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/bin/Debug/net10.0/fun_helloworld.runtimeconfig.json
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/bin/Debug/net10.0/fun_helloworld.dll
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/bin/Debug/net10.0/fun_helloworld.pdb
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/obj/Debug/net10.0/fun_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/obj/Debug/net10.0/fun_helloworld.AssemblyInfoInputs.cache
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/obj/Debug/net10.0/fun_helloworld.AssemblyInfo.cs
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/obj/Debug/net10.0/fun_helloworld.csproj.CoreCompileInputs.cache
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/obj/Debug/net10.0/fun_helloworld.sourcelink.json
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/obj/Debug/net10.0/fun_helloworld.dll
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/obj/Debug/net10.0/refint/fun_helloworld.dll
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/obj/Debug/net10.0/fun_helloworld.pdb
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/obj/Debug/net10.0/fun_helloworld.genruntimeconfig.cache
+/workspaces/exercism/csharp/hello-world/fundamentals/fun_helloworld/fun_helloworld/obj/Debug/net10.0/ref/fun_helloworld.dll
