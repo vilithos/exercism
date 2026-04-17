@@ -148,6 +148,8 @@ do
             // Add a new animal friend to the ourAnimals array
             string anotherPet = "y";
             int petCount = 0;
+            bool validEntry = false;
+
             for (int i = 0; i < maxPets; i++) // zähle wie viele einträge ausgefüllt sind
             {
                 if (ourAnimals[i, 0] != "ID #: ")
@@ -161,6 +163,26 @@ do
                     $"We currently have {petCount} pets that need homes. We can manage {(maxPets - petCount)} more."
                 );
             }
+
+            do // get species (cat or dog) - string animalSpecies is a required field 
+            {
+                Console.WriteLine("\n\rEnter 'dog' or 'cat' to begin a new entry");
+                readResult = Console.ReadLine();
+                if (readResult != null)
+                {
+                    animalSpecies = readResult.ToLower();
+                    if (animalSpecies != "dog" && animalSpecies != "cat")
+                    {
+                        Console.WriteLine("You entered: {animalSpecies}.");
+                        validEntry = false;
+                    }
+                    else
+                    {
+                        validEntry = true;
+                    }
+                }
+                
+            } while (validEntry == false);
 
             while (anotherPet == "y" && petCount < maxPets) // pet hinzufügen logik
             {
